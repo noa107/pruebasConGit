@@ -8,5 +8,5 @@ Para compartir fragmentos de código
 git –version -> para saber la versión de git que tienes instalada
 
 # mark down, extensión .md 
-[tutorial mark down]:https://markdown.es/sintaxis-markdown/#reglas
+[tutorial mark down] https://markdown.es/sintaxis-markdown/#reglas
 
