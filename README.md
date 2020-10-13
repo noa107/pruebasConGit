@@ -5,7 +5,7 @@ Almacena y distribuye repositorios en la nube
 Para compartir fragmentos de código
 
 # Comandos
-git –version -> para saber la versión de git que tienes instalada
+git –version -> para saber la versión de git que tienes instalada  
 hoja resumen en carpeta formación
 
 # mark down, extensión .md 
